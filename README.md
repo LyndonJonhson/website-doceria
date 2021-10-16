@@ -1,6 +1,6 @@
 ## Website Doceria
 
-Primeira página criada com HTML5 e CSS3
+Desenvolvido no Curso de Fluência em HTML5, CSS3, Flexbox e CSSGrid da Udemy.
 
 https://lyndonjonhson.github.io/website-doceria/
 
